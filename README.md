@@ -1,5 +1,4 @@
-# exoplanet-atmosphere-detection
-Exoplanet Atmosphere Detection using Deep Learning
+# Exoplanet Atmosphere Detection using Deep Learning
 
 # 🛰️ Exoplanet Atmosphere Detection using Machine Learning
 
